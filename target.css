@@ -1,0 +1,48 @@
+
+
+.flo{
+    background: black;
+    width: 600px;
+    height: 600px;
+    position: relative;
+}
+.ttt{
+    background: orange;
+    width: 596px;
+    height: 48px;
+    top: 2px;
+    margin-left: 2px;
+    position: relative;
+}
+.rrr{
+    background:red;
+    width: 149px;
+    height: 500px;
+float: left;
+margin-left: 2px;
+}
+.eee{
+background: green;
+width: 149px;
+height: 500px;
+float: left;
+}
+.vvv{
+background: blue;
+width: 149px;
+height: 500px;
+float: left;
+}
+.jjj{background: black;
+    width: 149px;
+    height: 500px;
+float: left;
+}
+.ooo{
+    background:orange;
+    height: 48px;
+    width: 596px;
+    margin-left: 2px;
+    margin-bottom: 2px;
+    clear: both;
+}
